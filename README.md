@@ -24,6 +24,8 @@ Best collaborative software on the market to create a lookup repository for info
 - Huge list of features
 - Acts more like a CMS / integrated with other services
 - Great for sites with thousands of users
+- WYSIWYG editor
+- Plugin support
 ```
 ### **Cons**
 ```
