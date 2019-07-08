@@ -1,6 +1,8 @@
 # awesome-wikis
 
-Best collaborative software on the market to create a lookup repository for information.
+Most common software for collaborating on documentation or articles
+
+![name](/assets/trends.png)
 
 ## [MediaWiki][mediawiki]
 [DEMO][mediawikidemo] / [CHEATSHEET][mediawiki-cheat]
