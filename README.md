@@ -1,6 +1,8 @@
 # awesome-wikis
 
-Most common software for collaborating on documentation or articles
+Most common software for collaborating on documentation or articles. The [main two][main] MediaWiki and DokuWiki have the largest following. Several other alternatives exist for different website designs.
+
+https://www.wikimatrix.org
 
 ![name](/assets/trends.png)
 
@@ -10,7 +12,7 @@ Most common software for collaborating on documentation or articles
 ### **Pros**
 ```
 - MediaWiki powers Wikipedia.org
-- Most commonly used due to its ability to scale and handle large objects of data
+- Most commonly used due to its ability to scale and handle large objects of data (millions of pages)
 - Widely Used
 - The extension Semantic MediaWiki allows for including meta data in articles
 ```
@@ -46,6 +48,7 @@ Most common software for collaborating on documentation or articles
 ```
 - Easy to use
 - Easy to manage
+- Security mindful
 - Great UI
 - Low resource use
 - Rich formatting options
@@ -55,57 +58,6 @@ Most common software for collaborating on documentation or articles
 ```
 - Folders and files can exist with the same name in the same directory
 ```
-
-## TWiki
-
-## TiddlyWiki
-
-## MoinMoin
-
-## PmWiki
-
-## WikkaWiki
-
-
-
-
-## Wiki.js
-
-## Gitit
-
-## reStructuredText
-
-## Org-mode
-
-## Markdoc
-
-
-## Notion
-
-## Xwiki
-
-## FosWiki
-
-## PhpWiki
-
-## Fandom
-
-- Public wiki hosted by Fandom.com where anyone can submit articles to the platform 
-- [Fandom](fandom)
-
-## Confluence
-
-## Drupal
-
-## Foswiki
-
-## WackoWiki
-
-## Slab
-
-## Banana Dance Wiki/CMS
-
-## BookStack
 
 ## WordPress Plugin Wikis
 
@@ -137,6 +89,7 @@ Most common software for collaborating on documentation or articles
 [tiki]:             https://tiki.org/HomePage
 [tikidemo]:         https://demo.tiki.org
 [tiki-cheat]:       https://doc.tiki.org/Wiki-Syntax-Text
+[main]:             https://civihosting.com/blog/dokuwiki-vs-mediawiki/
 [mediawiki]:        https://www.mediawiki.org/wiki/MediaWiki
 [mediawikidemo]:    https://www.mediawiki.org/wiki/Project:Sandbox
 [mediawiki-cheat]:  https://en.wikipedia.org/wiki/Help:Cheatsheet
