@@ -2,15 +2,33 @@
 
 Best collaborative software on the market to create a lookup repository for information.
 
-## MediaWiki
+## [MediaWiki](mediawiki)
 
-MediaWiki powers Wikipedia.org. Most commonly used due to its ability to scale and handle large objects of data.
+### **Pros**
+```
+- MediaWiki powers Wikipedia.org
+- Most commonly used due to its ability to scale and handle large objects of data
+- Widely Used
+- The extension Semantic MediaWiki allows for including meta data in articles
+```
+### **Cons**
+```
+- High learning curve
+- Lackluster documentation
+```
 
-[MediaWiki](mediawiki)
+## [Tiki Wiki](tiki)
 
-- ## Semantic MediaWiki
-    - Extension of MediaWiki that integrates meta data in the page so that the software can create relationships between information.
-    - [Semantic MediaWiki](semantic)
+### **Pros**
+```
+- Huge list of features
+- Acts more like a CMS / integrated with other services
+- Great for sites with thousands of users
+```
+### **Cons**
+```
+- Too bloated for small projects
+```
 
 ## Wiki.js
 
@@ -20,17 +38,24 @@ MediaWiki powers Wikipedia.org. Most commonly used due to its ability to scale a
 
 ## reStructuredText
 
-## Hyper-Text Markup Language
-
 ## Org-mode
 
-## Markdown
+## Markdoc
 
 ## MoinMoin
 
 ## Notion
 
 ## Xwiki
+
+## FosWiki
+
+## TWiki
+
+## Fandom
+
+- Public wiki hosted by Fandom.com where anyone can submit articles to the platform 
+- [Fandom](fandom)
 
 ## LaTeX
 
@@ -42,9 +67,17 @@ MediaWiki powers Wikipedia.org. Most commonly used due to its ability to scale a
 
 ## Quip
 
-## BookStack
+## Docsify.js
 
-## Tiki
+## Foswiki
+
+## WackoWiki
+
+## Slab
+
+## Banana Dance Wiki/CMS
+
+## BookStack
 
 ## Nuclino
 
@@ -69,7 +102,10 @@ MediaWiki powers Wikipedia.org. Most commonly used due to its ability to scale a
 
 
 
+[fandom]:           https://www.fandom.com/
+[tiki]:             https://tiki.org/HomePage
 [mediawiki]:        https://www.mediawiki.org/wiki/MediaWiki
 [semantic]:         https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+
 
 
