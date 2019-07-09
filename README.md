@@ -24,6 +24,20 @@ https://www.wikimatrix.org
 ```
 
 ## [Foswiki][foswiki]
+[DEMO][fosdemo] / 
+[CHEATSHEET][fos-cheat]
+
+### Pros
+```
+- Revision control --> similar to git
+- Markdown support
+- JS scripting language
+- Dynamic pages
+```
+### Cons
+```
+- More complicated
+```
 
 ## [DokuWiki][dokuwiki]
 [DEMO][dokudemo] / 
@@ -76,6 +90,8 @@ https://www.wikimatrix.org
 [dokudemo]:         https://s1.demo.opensourcecms.com/s/30
 [dokuwiki-cheat]:   https://www.dokuwiki.org/cheatsheet
 [foswiki]:          https://foswiki.org/
+[fosdemo]:          http://www.klingonwiki.net/En/MainPage
+[fos-cheat]:        https://foswiki.org/System/EditingShorthand
 [tiki]:             https://tiki.org/HomePage
 [tikidemo]:         https://demo.tiki.org
 [tiki-cheat]:       https://doc.tiki.org/Wiki-Syntax-Text
