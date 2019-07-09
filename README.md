@@ -23,22 +23,7 @@ https://www.wikimatrix.org
 - Heavy resource use
 ```
 
-## [Tiki Wiki][tiki]
-[DEMO][tikidemo] / [CHEATSHEET][tiki-cheat]
-
-### **Pros**
-```
-- Huge list of features
-- Acts more like a CMS / integrated with other services
-- Great for sites with thousands of users
-- WYSIWYG editor
-- Plugin support
-```
-### **Cons**
-```
-- Too bloated for small projects
-- Nonintuitive interface
-```
+## [Foswiki][foswiki]
 
 ## [DokuWiki][dokuwiki]
 [DEMO][dokudemo] / 
@@ -61,20 +46,25 @@ https://www.wikimatrix.org
 
 ## WordPress Plugin Wikis
 
-- ### BuddyPress Docs
-    - WordPress groups have an additional option to
-
-- ### WP Knowledgebase
-
-- ### Encyclopedia / Glossary / Wiki
-
+- ### Helpie FAQ
 - ### Yada Wiki
 
-- ### Very Simple Knowledge Base
+## [Tiki Wiki][tiki]
+[DEMO][tikidemo] / [CHEATSHEET][tiki-cheat]
 
-- ### RDP Wiki Embed
-
-- #### Wiki Embed
+### **Pros**
+```
+- Huge list of features
+- Acts more like a CMS / integrated with other services
+- Great for sites with thousands of users
+- WYSIWYG editor
+- Plugin support
+```
+### **Cons**
+```
+- Too bloated for small projects
+- Nonintuitive interface
+```
 
 
 
@@ -85,7 +75,7 @@ https://www.wikimatrix.org
 [dokuwiki]:         https://www.dokuwiki.org/dokuwiki
 [dokudemo]:         https://s1.demo.opensourcecms.com/s/30
 [dokuwiki-cheat]:   https://www.dokuwiki.org/cheatsheet
-[fandom]:           https://www.fandom.com/
+[foswiki]:          https://foswiki.org/
 [tiki]:             https://tiki.org/HomePage
 [tikidemo]:         https://demo.tiki.org
 [tiki-cheat]:       https://doc.tiki.org/Wiki-Syntax-Text
